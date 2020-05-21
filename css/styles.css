@@ -46,8 +46,8 @@ h6 {
 #fade-title {
     background: rgba(52, 58, 64, 0.5);
     border-radius: 45px;
-    max-height: 375px;
-    max-width: 750px;
+    max-height: 300px;
+    max-width: 700px;
     color: white;
 }
 
@@ -71,7 +71,12 @@ h6 {
 }
 
 .darken-img {
-  filter: brightness(70%);
+  filter: brightness(60%);
+}
+
+.font-bit-smaller {
+    font-size: 70%;
+    display: inline-block;
 }
 
 /* ------------------------------------------ Animation ----------------------------------------- */
